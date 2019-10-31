@@ -22,4 +22,4 @@ https://bitbucket.org/cinderblocks/libremetaverse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/93077099a899402aa190d35c1a5b40f5)](https://www.codacy.com/manual/cinderblocks/libremetaverse?utm_content=cinderblocks/libremetaverse)  
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3319/badge)](https://bestpractices.coreinfrastructure.org/projects/3319)  
 
-You may need to download and install the .NET Framework 4.7.1 Developer Pack for Windows developers ![here](https://www.microsoft.com/en-us/download/details.aspx?id=56119).
+You may need to download and install the .NET Framework 4.7.1 Developer Pack for Windows developers [here](https://www.microsoft.com/en-us/download/details.aspx?id=56119).
